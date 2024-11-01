@@ -58,3 +58,8 @@ Controle de Acesso:
 
 Login para administradores e funcionários (acesso ao painel de gestão).
 Área pública para navegação dos clientes.
+CT-	Navegação do Menu/	Clicar nos links do menu/	Entrada Produtos, Carrinho, Contato/	Saída Página correspondente é exibida
+CT-	Filtrar produtos/	Selecionar categoria/	Entrada Ex.: "Ferramentas"/	Saída Lista de produtos da categoria
+CT-	Adicionar ao carrinho/	Clicar em "Adicionar"/	Entrada Produto específico/	Saida Produto adicionado ao carrinho
+CT-	Atualizar quantidade/	Alterar quantidade no carrinho/	Entrada Nova quantidade > 0/	Saída Quantidade atualizada no carrinho
+CT-	Formulário de contato/	Preencher e submeter formulário/	Entrada Campos obrigatórios preenchidos/	Saída Exibe mensagem de confirmação de envio
