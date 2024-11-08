@@ -68,3 +68,9 @@ CT-	Adicionar ao carrinho/	Clicar em "Adicionar"/	Entrada Produto específico/	S
 CT-	Atualizar quantidade/	Alterar quantidade no carrinho/	Entrada Nova quantidade > 0/	Saída Quantidade atualizada no carrinho
 
 CT-	Formulário de contato/	Preencher e submeter formulário/	Entrada Campos obrigatórios preenchidos/	Saída Exibe mensagem de confirmação de envio
+
+"Implementa form de cadastro de produtos"
+
+"Adiciona validação de dados no cadastro de produtos"
+
+"Cria conexão entre cadastro e banco de dados MySQL"
