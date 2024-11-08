@@ -68,3 +68,7 @@ CT-	Adicionar ao carrinho/	Clicar em "Adicionar"/	Entrada Produto específico/	S
 CT-	Atualizar quantidade/	Alterar quantidade no carrinho/	Entrada Nova quantidade > 0/	Saída Quantidade atualizada no carrinho
 
 CT-	Formulário de contato/	Preencher e submeter formulário/	Entrada Campos obrigatórios preenchidos/	Saída Exibe mensagem de confirmação de envio
+
+"Corrige bug na atualização da quantidade no carrinho"
+
+"Ajusta layout responsivo para dispositivos móveis"
